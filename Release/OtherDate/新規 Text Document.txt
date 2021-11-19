@@ -1,0 +1,6 @@
+if (ClickPlayer == 1)
+{
+}
+else if (ClickPlayer > 1)
+{
+}

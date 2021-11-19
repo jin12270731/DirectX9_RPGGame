@@ -1,0 +1,34 @@
+﻿  Main.cpp
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(291): warning C4101: 'loacalText': ローカル変数は 1 度も使われていません。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(386): warning C4101: 'loacalText': ローカル変数は 1 度も使われていません。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(545): warning C4101: 'loacalText': ローカル変数は 1 度も使われていません。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(724): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(726): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(740): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(744): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(803): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(793): warning C4101: 'ch': ローカル変数は 1 度も使われていません。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(1153): warning C4101: 'hp': ローカル変数は 1 度も使われていません。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(1153): warning C4101: 'sp': ローカル変数は 1 度も使われていません。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(1153): warning C4101: 'mp': ローカル変数は 1 度も使われていません。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(1482): warning C4302: '型キャスト': 'LPSTR' から 'WORD' へ切り詰めます。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(1483): warning C4302: '型キャスト': 'LPSTR' から 'WORD' へ切り詰めます。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(1836): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(2126): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(2613): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(2691): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(2743): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(2906): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(2960): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(3070): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(3123): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(3390): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(3397): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(3603): warning C4244: '+=': 'LONG' から 'short' への変換です。データが失われる可能性があります。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(2902): warning C4101: 'ca': ローカル変数は 1 度も使われていません。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(3634): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(3654): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(3689): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(3691): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\jin12\source\repos\rpg\rpg\main.cpp(233): warning C4715: 'decisionTurn': 値を返さないコントロール パスがあります。
+  RPG.vcxproj -> C:\Users\jin12\source\repos\RPG\Debug\RPG.exe

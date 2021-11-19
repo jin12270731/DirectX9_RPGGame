@@ -1,0 +1,189 @@
+﻿  DrawClass.cpp
+  enemy.cpp
+  iniClass.cpp
+  Main.cpp
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(291,7): warning C4101: 'loacalText': ローカル変数は 1 度も使われていません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(386,7): warning C4101: 'loacalText': ローカル変数は 1 度も使われていません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(545,7): warning C4101: 'loacalText': ローカル変数は 1 度も使われていません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(724,25): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(726,13): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(740,13): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(744,15): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(793,7): warning C4101: 'ch': ローカル変数は 1 度も使われていません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(1153,6): warning C4101: 'hp': ローカル変数は 1 度も使われていません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(1153,14): warning C4101: 'sp': ローカル変数は 1 度も使われていません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(1153,10): warning C4101: 'mp': ローカル変数は 1 度も使われていません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(1482,25): warning C4302: '型キャスト': 'LPSTR' から 'WORD' へ切り詰めます。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(1483,27): warning C4302: '型キャスト': 'LPSTR' から 'WORD' へ切り詰めます。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(1976,116): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(1979,115): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2462,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2503,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2550,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2603,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2643,20): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2680,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2720,20): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2733,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2773,20): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2896,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2937,20): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2950,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2990,20): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3060,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3100,20): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3113,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3153,20): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3381,30): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3388,35): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3594,56): warning C4244: '+=': 'LONG' から 'short' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(2893,16): warning C4101: 'ca': ローカル変数は 1 度も使われていません。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3625,16): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3645,21): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3680,27): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(3682,14): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  player.cpp
+  playerBase.cpp
+  sprite.cpp
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(47,31): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(47,31): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(47,44): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(47,44): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(48,31): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(48,31): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(48,65): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(48,65): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(49,9): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(49,9): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(49,37): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(49,37): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(50,9): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(50,9): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(50,59): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(50,59): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(82,29): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(82,29): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(82,75): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(82,75): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(83,29): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(83,29): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(83,81): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(83,81): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(84,29): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(84,29): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(84,75): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(84,75): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(85,29): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(85,29): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(85,81): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(85,81): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(102,29): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(102,29): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(102,75): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(102,75): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(103,29): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(103,29): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(103,81): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(103,81): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(104,29): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(104,29): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(104,75): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(104,75): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(105,29): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(105,29): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(105,81): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(105,81): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(122,37): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(122,37): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(122,81): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(122,81): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(123,38): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(123,38): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(123,82): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(123,82): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(124,30): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(124,30): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(124,74): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(124,74): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(125,30): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(125,30): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(125,74): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(125,74): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(145,13): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(145,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(146,13): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(146,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(147,13): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(147,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(148,13): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(148,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(163,26): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(163,26): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(164,26): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(164,26): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(165,20): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(165,20): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(166,20): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(166,20): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(183,48): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(183,48): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(184,48): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(184,48): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(185,20): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(185,20): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(185,34): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(185,34): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(186,20): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(186,20): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(186,34): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(186,34): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(215,27): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(215,27): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(216,27): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(216,27): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(217,21): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(217,21): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(218,21): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(218,21): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(232,27): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(232,27): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(233,27): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(233,27): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(234,21): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(234,21): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(235,21): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(235,21): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(249,27): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(249,27): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(250,27): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(250,27): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(251,21): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(251,21): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(252,21): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(252,21): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(267,26): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(267,26): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(268,26): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(268,26): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(269,20): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(269,20): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(270,20): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(270,20): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(287,63): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(287,63): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(288,63): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(288,63): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(289,20): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(289,20): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(289,49): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(289,49): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(290,20): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(290,20): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(290,49): warning C4838: 'int' から 'float' への変換には縮小変換が必要です
+D:\proguram\c++\repos\RPG\RPG\sprite.cpp(290,49): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+D:\proguram\c++\repos\RPG\RPG\Main.cpp(233): warning C4715: 'decisionTurn': 値を返さないコントロール パスがあります。
+  All 968 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  RPG.vcxproj -> D:\proguram\c++\repos\RPG\x64\Release\RPG.exe

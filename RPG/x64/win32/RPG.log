@@ -1,0 +1,20 @@
+﻿  direct.cpp
+c:\users\jin12\source\repos\rpg\rpg\direct.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  directMouse.cpp
+c:\users\jin12\source\repos\rpg\rpg\direct.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  directsound.cpp
+  DirectText.cpp
+c:\users\jin12\source\repos\rpg\rpg\direct.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  enemy.cpp
+  Main.cpp
+c:\users\jin12\source\repos\rpg\rpg\direct.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  mapDraw.cpp
+c:\users\jin12\source\repos\rpg\rpg\direct.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  player.cpp
+  soundbuffer.cpp
+  sprite.cpp
+c:\users\jin12\source\repos\rpg\rpg\direct.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  textur.cpp
+c:\users\jin12\source\repos\rpg\rpg\direct.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  wave.cpp
+  コードを生成中...

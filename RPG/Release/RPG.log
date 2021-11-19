@@ -1,0 +1,25 @@
+﻿  direct.cpp
+  directMouse.cpp
+D:\proguram\c++\repos\RPG\RPG\direct.h(14,10): error C1083:  include ファイルを開けません。'd3dx9.h':No such file or directory
+  directsound.cpp
+  DirectText.cpp
+D:\proguram\c++\repos\RPG\RPG\direct.h(14,10): error C1083:  include ファイルを開けません。'd3dx9.h':No such file or directory
+  DrawClass.cpp
+D:\proguram\c++\repos\RPG\RPG\direct.h(14,10): error C1083:  include ファイルを開けません。'd3dx9.h':No such file or directory
+  enemy.cpp
+D:\proguram\c++\repos\RPG\RPG\direct.h(14,10): error C1083:  include ファイルを開けません。'd3dx9.h':No such file or directory
+  iniClass.cpp
+D:\proguram\c++\repos\RPG\RPG\playerBase.h(4,10): error C1083:  include ファイルを開けません。'd3dx9.h':No such file or directory
+  Main.cpp
+D:\proguram\c++\repos\RPG\RPG\iniClass.h(2,10): error C1083:  include ファイルを開けません。'boost/property_tree/ptree.hpp':No such file or directory
+  player.cpp
+D:\proguram\c++\repos\RPG\RPG\direct.h(14,10): error C1083:  include ファイルを開けません。'd3dx9.h':No such file or directory
+  playerBase.cpp
+D:\proguram\c++\repos\RPG\RPG\playerBase.h(4,10): error C1083:  include ファイルを開けません。'd3dx9.h':No such file or directory
+  soundbuffer.cpp
+  sprite.cpp
+D:\proguram\c++\repos\RPG\RPG\playerBase.h(4,10): error C1083:  include ファイルを開けません。'd3dx9.h':No such file or directory
+  textur.cpp
+D:\proguram\c++\repos\RPG\RPG\direct.h(14,10): error C1083:  include ファイルを開けません。'd3dx9.h':No such file or directory
+  wave.cpp
+D:\proguram\c++\repos\RPG\RPG\direct.h(14,10): error C1083:  include ファイルを開けません。'd3dx9.h':No such file or directory
